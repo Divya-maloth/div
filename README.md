@@ -1,2 +1,2 @@
 # div
-Python GitHub Reposito
+Python GitHub Repositotery
