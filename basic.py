@@ -695,7 +695,7 @@ class student:
 # Expected Output: Computer with Intel i7 CPU and 16GB RAM..
 
 
-# Exercise 43: The Singleton Pattern Implement a Database class that ensures only one
+# Exercise 43: Thee Singleton Pattern Implement a Database class that ensures only one
 #  instance of itself can ever exist. If a user tries to create a second instance, it
 #  should return the first one created.
 #  Given Input: db1 = Database() db2 = Database() print(db1 is db2) 
